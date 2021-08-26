@@ -1,0 +1,5 @@
+consumer_key = 'RjUUC3vqr6Q8cuHs4CrI8p87Q'
+consumer_secret = 'dCL2vJo59zZBy5zWD054QSuM9iZyGdtkie4xc4k4AL5VYNimhY'
+access_token = '798597487644831744-ktEGLuH6oKRixeQ20SjeHdsxYfOcf2M'
+access_token_secret = 'Yhi4akDJAsnW46Q3e9sACExhCS63gEiIPYE4QxAiK17kt'
+mapquest_key = 'RjUUC3vqr6Q8cuHs4CrI8p87Q'
